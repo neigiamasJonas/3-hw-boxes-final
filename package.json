@@ -1,0 +1,13 @@
+{
+  "name": "3-hw-boxes-final",
+  "version": "1.0.0",
+  "description": "Box in a box",
+  "main": "index.js",
+  "scripts": {
+    "dev": "dead-server --port=3000 --host=localhost",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["inline-block, margin, border, width: calc()"],
+  "author": "Povilas",
+  "license": "ISC"
+}
